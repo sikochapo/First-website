@@ -1,0 +1,20 @@
+/*****************General stuff*********************/
+body {background-color:#f5b5fc}
+hr {border-style: dotted none none none;
+   width: 5%; border-color: grey; border-width: 20px}
+  h1 {color: #96f7d2; font-family: "monotype corsiva"}
+h3 {color: #96f7d2}
+
+/**********************picture stuff**********************/
+
+
+
+img:hover {background-color: green}
+
+.alsatian {background-color: yellow}
+.ekuke {background-color: violet}
+.circular {border-radius: 100px}
+
+
+/*************id selectors*********************/
+#contact {color: grey;}
